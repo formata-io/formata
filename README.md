@@ -29,7 +29,7 @@ formata.deliver(bucketName, {
 
 ## Fetching data
 ```js
-formata.deliver(bucketName, {
+formata.get(bucketName, {
   limit: 3,
   sort: 'name'
 }).then(res => {
