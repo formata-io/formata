@@ -1,0 +1,9 @@
+{
+  "name": "formata",
+  "version": "1.0.0",
+  "description": "Formata.io API package",
+  "main": "index.js",
+  "repository": "https://github.com/formata-io/formata.git",
+  "author": "Formata",
+  "license": "GNU General Public License v2.0"
+}
