@@ -29,10 +29,6 @@ formata.deliver(bucketName, {
 
 ## Fetching data
 ```js
-import Formata from 'formata'
-
-const formata = new Formata('YOUR_SK_API_KEY')
-
 formata.deliver(bucketName, {
   limit: 3,
   sort: 'name'
